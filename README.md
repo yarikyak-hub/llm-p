@@ -20,7 +20,7 @@
 1. Клонируйте репозиторий:  
 
 ```bash
-   git clone https://ваш-репозиторий.git
+   git clone https://github.com/yarikyak-hub/llm-p
    cd ваш-проект
 
 ```
