@@ -1,0 +1,9 @@
+.ruff_cache/
+.venv/
+.env
+app.db
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
