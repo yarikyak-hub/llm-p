@@ -13,7 +13,7 @@ class LoginRequest(BaseModel):
     username: str
     password: str
 
-# Добавьте эту схему для публичных данных пользователя
+# Публичные данные о пользователе, которые выводятся при запросе
 class UserPublic(BaseModel):
     id: int
     email: EmailStr
